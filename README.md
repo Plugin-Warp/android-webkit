@@ -1,5 +1,5 @@
 # PW android test
-This is a test, not all things work. Download [here](https://github.com/plugin-warp/android-webkit/releases/tags/alpha)
+This is a test, not all things work. Download [here](https://github.com/plugin-warp/android-webkit/releases/tag/alpha)
 
 ## TODO
 #### Turn this:
